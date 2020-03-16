@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352986919267",
+    "firebase_url": "https://eldestennew.firebaseio.com",
+    "project_id": "eldestennew",
+    "storage_bucket": "eldestennew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352986919267:android:542d686c0d21976c006356",
+        "android_client_info": {
+          "package_name": "com.eldestennew.eldesten_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352986919267-9l7an42hc4cfluo79fumqkvkchuukuui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eldestennew.eldesten_new",
+            "certificate_hash": "f9878d164ead84b246a7ed7d14c369c44100eaa3"
+          }
+        },
+        {
+          "client_id": "352986919267-u3dcsvtr7fju5vdrbdvj6k55tko7cu1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQiqFQY-7I3JM1pY3nbjYIWQHpXRs_Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352986919267-u3dcsvtr7fju5vdrbdvj6k55tko7cu1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
